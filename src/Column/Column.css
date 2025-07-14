@@ -1,0 +1,9 @@
+.column {
+  flex-grow: 1;
+
+}
+
+.column textarea,
+.column div {
+  font-family: monospace;
+}
